@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eee29e69c83c4387b0da583590ba85f1, type: 3}
   m_Name: DropObjectData
   m_EditorClassIdentifier: 
-  dropPrefab: {fileID: 0}
+  tilemap: {fileID: 0}
+  dropPrefab: {fileID: 1224070030149098536, guid: 71d7647032a2c434dbb2c5ba14a20f01, type: 3}
